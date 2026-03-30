@@ -94,6 +94,32 @@ start travel-planner.html  # Windows
 
 ---
 
+## Screenshots
+
+### Example 1 — Capital to Capital (1 leg)
+Origin: **Dublin, Ireland** → Destination: **Madrid, Spain**
+Direct international flight between two capitals.
+
+![Dublin to Madrid](Screenshot%20of%20the%20website/Screenshot%202026-03-30%20135326.png)
+
+---
+
+### Example 2 — Non-Capital to Capital (2 legs)
+Origin: **Galway, Ireland** → Destination: **Madrid, Spain**
+Bus from Galway to Dublin (home capital), then Plane to Madrid.
+
+![Galway to Madrid](Screenshot%20of%20the%20website/Screenshot%202026-03-30%20135413.png)
+
+---
+
+### Example 3 — Non-Capital to Non-Capital (3 legs)
+Origin: **Cork, Ireland** → Destination: **Bordeaux, France**
+Bus to Dublin → Plane to Paris → Bus to Bordeaux.
+
+![Cork to Bordeaux](Screenshot%20of%20the%20website/Screenshot%202026-03-30%20135449.png)
+
+---
+
 ## How It Works
 
 The routing logic in `js/app.js` follows these steps:
